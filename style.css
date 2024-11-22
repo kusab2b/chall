@@ -1,0 +1,58 @@
+﻿*{
+    box-sizing: border-box;
+}
+
+.box{
+    background-color: rgba(9, 140, 38, 1);
+}
+
+.line{
+    width: 30px;
+    rotate: 100grad;
+    border: 1px solid white;
+}
+
+.row{
+    display: flex;
+}
+
+
+.navbar{
+    display: flex;
+    justify-content: center;
+}
+
+.wallet{
+   font-size: 56px;
+   
+   width: 630px;
+
+}
+.coin{
+   font-size: 40px; 
+   width: 600px;
+color: white;
+}
+
+
+.dash{
+    
+
+}
+.bts{
+    width: 300px;
+    height: 65px;
+    font-size: 24px;
+    border-radius: 20px;
+    border: none;
+    background-color: rgba(247, 147, 26, 1);
+}
+.bts1{
+
+ width: 300px;
+    height: 65px;
+    font-size: 24px;
+    border-radius: 20px;
+    border: none;
+}
+
